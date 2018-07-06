@@ -1,0 +1,20 @@
+c:\users\user\source\repos\Packman Game\bin\Debug\Packman Game.exe.config
+c:\users\user\source\repos\Packman Game\bin\Debug\Packman Game.exe
+c:\users\user\source\repos\Packman Game\bin\Debug\Packman Game.pdb
+c:\users\user\source\repos\Packman Game\obj\Debug\Packman Game.csprojAssemblyReference.cache
+c:\users\user\source\repos\Packman Game\obj\Debug\Packman_Game.Form1.resources
+c:\users\user\source\repos\Packman Game\obj\Debug\Packman_Game.Properties.Resources.resources
+c:\users\user\source\repos\Packman Game\obj\Debug\Packman Game.csproj.GenerateResource.cache
+c:\users\user\source\repos\Packman Game\obj\Debug\Packman Game.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Packman Game\obj\Debug\Packman Game.exe
+c:\users\user\source\repos\Packman Game\obj\Debug\Packman Game.pdb
+C:\Users\P106\Desktop\PacMan-master\bin\Debug\Packman Game.exe.config
+C:\Users\P106\Desktop\PacMan-master\bin\Debug\Packman Game.exe
+C:\Users\P106\Desktop\PacMan-master\bin\Debug\Packman Game.pdb
+C:\Users\P106\Desktop\PacMan-master\obj\Debug\Packman Game.csprojResolveAssemblyReference.cache
+C:\Users\P106\Desktop\PacMan-master\obj\Debug\Packman_Game.Form1.resources
+C:\Users\P106\Desktop\PacMan-master\obj\Debug\Packman_Game.Properties.Resources.resources
+C:\Users\P106\Desktop\PacMan-master\obj\Debug\Packman Game.csproj.GenerateResource.Cache
+C:\Users\P106\Desktop\PacMan-master\obj\Debug\Packman Game.csproj.CoreCompileInputs.cache
+C:\Users\P106\Desktop\PacMan-master\obj\Debug\Packman Game.exe
+C:\Users\P106\Desktop\PacMan-master\obj\Debug\Packman Game.pdb
